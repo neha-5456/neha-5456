@@ -11,7 +11,8 @@
 
 ###  Featured Projects
 - **[Django Blog Platform](#)** – User auth, rich text posts, image uploads
-- **[E-commerce REST API](#)** – Products, cart, checkout, JWT auth
+- **[E-commerce REST API](https://github.com/neha-5456/DRF-Advance-Ecommerce-Api)** – Products, cart, checkout, JWT auth
+- **[E-commerce]( https://github.com/neha-5456/Ecommerce-site/)** – Products, cart, checkout, JWT auth
 - **[Task Manager](https://github.com/neha-5456/Django-Task-Manager-with-Celery)** – Asynchronous tasks with Celery & Redis
 
 ——
