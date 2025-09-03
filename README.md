@@ -12,7 +12,7 @@
 ###  Featured Projects
 - **[Django Blog Platform](#)** – User auth, rich text posts, image uploads
 - **[E-commerce REST API](#)** – Products, cart, checkout, JWT auth
-- **[Task Manager](#)** – Asynchronous tasks with Celery & Redis
+- **[Task Manager](https://github.com/neha-5456/Django-Task-Manager-with-Celery)** – Asynchronous tasks with Celery & Redis
 
 ——
 
