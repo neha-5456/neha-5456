@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Neha!
 
-<!--
-**neha-5456/neha-5456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Passionate **Python Django Developer** with 3+ years of experience building scalable web applications.
 
-Here are some ideas to get you started:
+###  Tech Stack
+- **Languages:** Python, JavaScript, SQL
+- **Frameworks:** Django, Django REST Framework
+- **Database:** PostgreSQL, SQLite
+- **Dev Tools:** Git, Docker, Celery, Redis
+- **Deployment:** Heroku, AWS basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Featured Projects
+- **[Django Blog Platform](#)** – User auth, rich text posts, image uploads
+- **[E-commerce REST API](#)** – Products, cart, checkout, JWT auth
+- **[Task Manager](#)** – Asynchronous tasks with Celery & Redis
+
+——
+
+Feel free to explore my work and connect with me:
+- [LinkedIn](#)
+- [Email](mailto:nehaj5456@gmail.com)
