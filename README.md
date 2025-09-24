@@ -31,10 +31,9 @@ Feel free to explore my work, open issues, or contribute to projects. I’m alwa
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-5456&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inadvanced&show_icons=true&count_private=true)
-
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neha-5456&theme=dark" width="60%" />
+</p>
 
 
 
