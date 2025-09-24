@@ -16,7 +16,15 @@
 - **[Task Manager](https://github.com/neha-5456/Django-Task-Manager-with-Celery)** – Asynchronous tasks with Celery & Redis
 
 ——
-
-Feel free to explore my work and connect with me:
 - [LinkedIn](#)
 - [Email](mailto:nehaj5456@gmail.com)
+
+---
+
+Feel free to explore my work, open issues, or contribute to projects. I’m always open to collaboration and new opportunities!  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=radical)
