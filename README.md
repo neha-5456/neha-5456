@@ -27,7 +27,5 @@ Feel free to explore my work, open issues, or contribute to projects. I’m alwa
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neha-5456&show_icons=true&hide_border=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-5456&layout=compact&theme=tokyonight)
 
